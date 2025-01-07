@@ -1,9 +1,7 @@
 # website
 Bitcoin School Kenya Website Volunteers
 Bitcoin Schol Kenya Repository
-Welcome to the Bitcoin Schol Kenya repository! This is a community-driven platform designed to provide comprehensive resources for learning about Bitcoin, blockchain technology, and cryptocurrency. Our goal is to build a robust Learning Management System (LMS) for students, developers, and enthusiasts who want to explore the world of Bitcoin and contribute to its growth, especially within Kenya and the African continent.
-
-Whether you’re a student, a developer, or an educator, this platform is designed for collaboration. We encourage open contributions and active engagement in building an interactive and informative learning environment.
+Welcome to the Bitcoin Schol Kenya repository! 
 
 Features
 The Bitcoin Schol Kenya platform will feature the following:
@@ -90,8 +88,8 @@ We would like to thank all contributors for their effort in building and maintai
 
 Contact
 For inquiries, please contact us at:
-contact@bitcoinscholkenya.com
++254737684314
+martin@bitcoinschoolke.com
 
 Happy learning and coding! 🚀
 
-This README file includes all the essential details for users and contributors, with clear instructions on how to get started, contribute, and stay engaged with the project. It’s structured to provide an easy onboarding experience for both developers and non-developers.
