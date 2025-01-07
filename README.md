@@ -34,7 +34,7 @@ Click the "Fork" button at the top of the repository to create a personal copy o
 Clone the repository to your local machine using Git:
 bash
 Copy code
-git clone https://github.com/your-username/bitcoin-schol-kenya.git
+git clone https://github.com/your-username/BitcoinSchoolKe/website
 2. Set Up Your Local Development Environment
 Install any necessary dependencies, such as the web framework, database, or tools required for building the LMS.
 Instructions for setting up the environment will be provided in the docs/setup.md file.
